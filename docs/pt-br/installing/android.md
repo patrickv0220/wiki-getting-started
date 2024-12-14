@@ -12,11 +12,11 @@ Esta etapa varia dependendo do seu dispositivo e da versão do Android. Consulte
 
 Por exemplo, para o vanilla Android Oreo e mais recentes, você pode encontrá-lo em:
 
-1.  Settings
-2.  Apps & Notifications
-3.  Advanced
-4.  Special App Access
-5.  Install Unknown Apps
+1.  Configurações
+2.  Aplicativos e Notificações
+3.  Avançado
+4.  Acesso especial ao aplicativo
+5.  Instalar aplicativos desconhecidos
 6.  Select a source
 7.  Allow From This Source
 
