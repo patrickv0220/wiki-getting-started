@@ -5,4 +5,4 @@ O Sonolus está atualmente em desenvolvimento, portanto ainda não está dispon�
 Para instalar o Sonolus em um dispositivo Android, siga as etapas abaixo:
 
 # Instalar
-Baixar e Instalar
+Baixe e instalar [Sonolus_0.8.8.ipa](https://download.sonolus.com/Sonolus_0.8.8.ipa)
